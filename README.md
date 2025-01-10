@@ -36,14 +36,3 @@ This repository contains a machine learning project that predicts employee attri
 3. **Deployment**:
    - The model is deployed as a **Streamlit web application**, where users can input employee data and get a prediction on whether the employee is likely to leave the company.
 
-## Installation & Setup
-
-### Requirements
-Before running this project, ensure you have the following dependencies installed:
-
-- Python 3.x
-- `scikit-learn`
-- `pandas`
-- `numpy`
-- `streamlit`
-- `joblib`
