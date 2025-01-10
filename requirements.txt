@@ -1,4 +1,4 @@
-Python 3.x
+Python 
 scikit-learn
 pandas
 numpy
