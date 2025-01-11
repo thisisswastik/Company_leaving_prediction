@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # Load the trained model
-model = joblib.load('random_forest_model.pkl')
+model = joblib.load('Company_leaving_employee.pkl')
 
 # Function to encode the input features
 def encode_features(data, columns_to_encode):
